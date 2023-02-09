@@ -9,7 +9,7 @@ You also have a client.lua had a removal of NPCs on foot and in vehicles around 
 
 ![image](https://user-images.githubusercontent.com/67479263/217886551-321f9125-24c4-45db-9af9-7f257eca55d2.png)
 
-[CFX FORUM regarding this mapping](https://forum.cfx.re/t/karting-ymap-free/5019271)
+https://forum.cfx.re/t/karting-ymap-free/5019271
 
 
 Code is accessible = Yes
