@@ -1,4 +1,4 @@
-FR : 
+:fr:
 Voici un petit mapping karting pour vos joueurs, que ça soit en tant que conducteur ou spectateur, ce mapping suffira à vos joueurs ! La distance des props est réduite, donc optimiser pour les scènes aux alentours et le positionnement des props reste rôleplay.
 Vous avez aussi un client.lua avait une suppression des PNJ à pied et en véhicule aux alentours du mapping.
 
