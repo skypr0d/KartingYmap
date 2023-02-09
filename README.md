@@ -12,8 +12,8 @@ You also have a client.lua had a removal of NPCs on foot and in vehicles around 
 https://forum.cfx.re/t/karting-ymap-free/5019271
 
 
-Code is accessible = Yes
-Subscription-based = No
-Lines (client.lua) = 8
-File weight = 4,80 Ko
-Support = No
+· Code is accessible = Yes
+· Subscription-based = No
+· Lines (client.lua) = 8
+· File weight = 4,80 Ko
+· Support = No
